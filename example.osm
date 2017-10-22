@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm>
+	<way changeset="4351805" id="15370305" timestamp="2010-04-07T07:02:07Z" uid="20587" user="balrog-kun" version="2">
+		<nd ref="152196916" />
+		<nd ref="152319655" />
+		<nd ref="152319658" />
+		<nd ref="152196584" />
+		<tag k="name" v="Jubilo Lane" />
+		<tag k="name_1" v="Julio Lane" />
+		<tag k="highway" v="residential" />
+		<tag k="tiger:cfcc" v="A41" />
+		<tag k="tiger:tlid" v="96416612" />
+		<tag k="tiger:county" v="Harris, TX" />
+		<tag k="tiger:source" v="tiger_import_dch_v0.6_20070830" />
+		<tag k="tiger:reviewed" v="no" />
+		<tag k="tiger:name_base" v="Jubilo" />
+		<tag k="tiger:name_type" v="Ln" />
+		<tag k="tiger:separated" v="no" />
+		<tag k="tiger:name_base_1" v="Julio" />
+		<tag k="tiger:name_type_1" v="Ln" />
+	</way>
+	<way changeset="39848451" id="423217818" timestamp="2016-06-06T20:31:04Z" uid="1829683" user="Luis36995" version="1">
+		<nd ref="152152036" />
+		<nd ref="3204973688" />
+		<nd ref="152152033" />
+		<nd ref="152152031" />
+		<nd ref="1606750111" />
+		<nd ref="4228968210" />
+		<tag k="name" v="Fondren Road" />
+		<tag k="oneway" v="yes" />
+		<tag k="highway" v="secondary" />
+		<tag k="tiger:cfcc" v="A45" />
+		<tag k="tiger:county" v="Fort Bend, TX; Harris, TX" />
+		<tag k="tiger:reviewed" v="no" />
+		<tag k="tiger:zip_left" v="77489; 77085" />
+		<tag k="tiger:name_base" v="Fondren" />
+		<tag k="tiger:name_type" v="Rd" />
+		<tag k="tiger:zip_right" v="77085" />
+	</way>
+	<way changeset="39867042" id="423453623" timestamp="2016-06-07T17:46:54Z" uid="2226712" user="dannykath" version="1">
+		<nd ref="152155061" />
+		<nd ref="4230588229" />
+		<tag k="name" v="Center Street" />
+		<tag k="fixme" v="dual carriageway" />
+		<tag k="highway" v="secondary" />
+		<tag k="tiger:cfcc" v="A41" />
+		<tag k="tiger:county" v="Harris, TX" />
+		<tag k="tiger:name_base" v="Center" />
+		<tag k="tiger:name_type" v="St" />
+		<tag k="turn:lanes:backward" v="left||" />
+	</way>
+	<way changeset="40230222" id="426779592" timestamp="2016-06-23T12:03:15Z" uid="4050400" user="cactolith" version="1">
+		<nd ref="4260425486" />
+		<nd ref="4260425485" />
+		<nd ref="4260425487" />
+		<tag k="man_made" v="pier" />
+	</way>
+	<node changeset="50795621" id="5004383433" lat="29.7420621" lon="-95.4477453" timestamp="2017-08-03T04:36:02Z" uid="4132860" user="jamesavery" version="2">
+		<tag k="addr:city" v="Houston" />
+		<tag k="addr:housenumber" v="4925" />
+		<tag k="addr:postcode" v="77056" />
+		<tag k="addr:state" v="TX" />
+		<tag k="addr:street" v="Westheimer Rd" />
+		<tag k="description" v="James Avery Jewelry is a family-owned company offering finely crafted jewelry designs in sterling silver, 14K and 18K yellow and white gold, and gemstones for women and men." />
+		<tag k="name" v="James Avery Jewelry" />
+		<tag k="opening_hours" v="Mo-Sa 10:00-21:00, Sun 12:00-19:00" />
+		<tag k="operator" v="James Avery" />
+		<tag k="phone" v="7136221200" />
+		<tag k="shop" v="jewelry" />
+		<tag k="website" v="http://www.jamesavery.com/custserv/store_details.jsp?storeId=800" />
+	</node>
+
+</osm>
